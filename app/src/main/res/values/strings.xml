@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task N25</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="get_search">Get Search</string>
+</resources>
